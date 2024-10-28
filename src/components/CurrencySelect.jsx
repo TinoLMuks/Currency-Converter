@@ -39,4 +39,4 @@ const CurrencySelect = ({ selectedCurrency, handleCurrency}) => {
   )
 }
 
-export default CurrencySelect
+export default CurrencySelect;

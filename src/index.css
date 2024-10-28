@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url(bg.webp) darkblue  /*-- no-repeat center */ ;
+  background: url(po.avif) lightblue  /*-- no-repeat center */ ;
 }
 
 #root{
@@ -19,7 +19,7 @@ body{
 
 .currency-converter{
   margin: 0 auto;
-  background: rgba(2, 7, 40, 0.5);
+  background: orangered;
   padding: 40px 30px 50px;
   border-radius: 10px ;
   max-width: 410px;
